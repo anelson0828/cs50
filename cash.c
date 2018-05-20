@@ -54,7 +54,7 @@ int main(void)
         coins ++;
     }
 
-//print how many conis were needed to give correct change
+//print how many coins were needed to give correct change
 
     printf("%i\n", coins);
 }
